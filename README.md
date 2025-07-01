@@ -4,7 +4,7 @@ This repository contains the privacy policy for the MyCalorieCycle mobile applic
 
 ## Accessing the Privacy Policy
 
-The privacy policy is available at: https://github.com/json-dubs/MyCalorieCycle-Privacy/blob/main/privacy-policy.md
+The privacy policy is available at: https://json-dubs.github.io/MyCalorieCycle-Privacy/privacy-policy.html
 
 ## About MyCalorieCycle
 
