@@ -4,11 +4,11 @@ This repository contains the privacy policy for the MyCalorieCycle mobile applic
 
 ## Accessing the Privacy Policy
 
-The privacy policy is available at: https://json-dubs.github.io/MyCalorieCycle-Privacy/
+The privacy policy is available at: https://github.com/json-dubs/MyCalorieCycle-Privacy/blob/main/privacy-policy.md
 
 ## About MyCalorieCycle
 
-MyCalorieCycle is a mobile application that helps users track their calorie intake and cycling activities. This privacy policy outlines how we handle user data and privacy.
+MyCalorieCycle is a mobile application that helps users calculate their calorie needs and create macro plans tailored to their body recomposition goals. This privacy policy outlines how we handle user data and privacy.
 
 ## Repository Structure
 
