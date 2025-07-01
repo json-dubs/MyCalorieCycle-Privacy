@@ -4,4 +4,4 @@
 
 If you have any questions or concerns about this privacy policy, please contact us at [mycaloriecycle@pm.me](mailto:mycaloriecycle@pm.me).
 
-_Last updated: December 19, 2024_ 
+_Last updated: July 1, 2025_ 
